@@ -14,30 +14,46 @@ Spearman's R
 
 # Normalization Methods:
 This study utilized four different normalization approaches for visualizing Hi-C interaction and comparison purpose.
+
 Min-max 
+
 Min Absolute Value Scaling 
+
 Preprocess Normalize
+
 Robust Scaling
 
 # Dataset:
 The data folder contains the Hi-C dataset for two human cell types. These datasets are sparse matrices containing a higher amount of zeroes. The dataset does not contain the header. Each column represents a bin.
+
 Human ES Cell
+
 IMR90 Fibroblasts Cell
 
 # Getting Setup with Python
 Ensure that you have the below software installed.
 Software you require
+
 Jupyter Notebook(Recommended Version 6.3.0)
+
 Anaconda (Recommended Version 4.10.1)
 
 # Dependencies:
+
 The following libraries need to be installed before running the program
+
 pip install matplotlib
+
 pip install pandas
+
 pip install numpy
+
 pip install seaborn
+
 pip install scikit-learn
+
 pip install xarray
+
 pip install plotly
 
 # Files:
