@@ -7,7 +7,9 @@ This study utilized the Hi-C matrix for analyzing the relationship between two d
 
 # Correlational Methods:
 The following correlational methods have been employed for similarity measurement:
+
 Pearson's 
+
 Spearman's R
 
 # Normalization Methods:
